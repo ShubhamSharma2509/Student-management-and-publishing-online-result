@@ -1,4 +1,4 @@
-The "Tutorial Management System" is a Python project that operates as a GUI-based application. 
+**Tutorial Management System** is a Python project that operates as a GUI-based application. 
 
 This project provides us with a simple interface for the maintenance of student information. It can be used by educational institutes or colleges to maintain the records of students easily. Achieving this objective is difficult using a manual system as the information is scattered, can be redundant, and collecting relevant information may be very time-consuming. All these problems are solved using this project.
 
@@ -14,16 +14,16 @@ The main purpose of this SRS document is to illustrate the requirements of the p
 
 
 
-Its primary functionalities include:
+**Its primary functionalities include:**
 
-1.Student Admission Management: Allows the user to admit students into the tutorial system.
+**1.Student Admission Management:** Allows the user to admit students into the tutorial system.
 
-2.Batch Management: Facilitates the management of batches, which likely includes creating, modifying, and deleting batches of students.
+**2.Batch Management:** Facilitates the management of batches, which likely includes creating, modifying, and deleting batches of students.
 
-3.Teacher Management: Provides tools to manage teachers, such as adding new teachers, assigning them to batches, or updating their information.
+**3.Teacher Management:** Provides tools to manage teachers, such as adding new teachers, assigning them to batches, or updating their information.
 
-4.Result Publication: Automates the process of publishing students' results. This involves displaying grades or scores in the GUI interface.
+**4.Result Publication:** Automates the process of publishing students' results. This involves displaying grades or scores in the GUI interface.
 
-5.Database Integration: Stores all relevant data, such as student information, batch details, teacher records, and student results, in a database. This ensures that the information is securely stored and easily retrievable.
+**5.Database Integration:** Stores all relevant data, such as student information, batch details, teacher records, and student results, in a database. This ensures that the information is securely stored and easily retrievable.
 
 Overall, the system aims to streamline administrative tasks related to student management, batch handling, teacher oversight, and result distribution through a user-friendly graphical interface, all implemented using Python programming language.
